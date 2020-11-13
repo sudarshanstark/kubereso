@@ -1,0 +1,4 @@
+Various tools to setup Kubernetes on local machine: https://kubernetes.io/docs/tasks/tools/
+minikube
+microk8s
+kind
