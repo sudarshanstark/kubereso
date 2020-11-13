@@ -1,1 +1,2 @@
 Learning Path
+Kubernetes setup on local machine: https://kubernetes.io/docs/tasks/tools/
