@@ -1,2 +1,3 @@
 Learning Path
 Kubernetes setup on local machine: https://kubernetes.io/docs/tasks/tools/
+https://www.oreilly.com/learning-paths/learning-path-learning/9781789346442
